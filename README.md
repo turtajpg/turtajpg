@@ -12,4 +12,4 @@ And yeah, thats all :p
 
 @instagram:turta.jpg
 
-@discord:turta.jpg#7622 
+@discord:Hacı Gandalf#7622
