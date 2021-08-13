@@ -6,9 +6,9 @@ I have 4 years of experience working as a digital editor. And I worked as a digi
 
 I am also interested in learning new languages. 
 
-I’m currently learning python :snake:
+I’m currently learning python for data science and kotlin
 
-And yeah, thats all :p
+And yeah, thats all
 
 @instagram:turta.jpg
 
